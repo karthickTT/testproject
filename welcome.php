@@ -1,5 +1,5 @@
 <?php
-echo "Welcome To TT";
+$a=10;
 echo "<br>"
 echo "Hello wold";
 ?>
